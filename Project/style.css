@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(218, 236, 238);
+}
+table {
+    margin-left: 30%;
+    width: 40%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-top: 2%;
+}
+
+th, td {
+    border: 2px solid #201d1d;
+    padding: 10px;
+    text-align: left;
+    background-color: rgb(214, 242, 245);
+}
+
+.hel{
+    margin-left: 40%;
+}
